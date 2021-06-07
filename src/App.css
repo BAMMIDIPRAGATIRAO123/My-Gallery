@@ -1,0 +1,111 @@
+body {
+  background-color: #4f5b66 ;
+  height: auto;
+  width: 100%;
+  
+}
+
+.headimage{
+  background: url("components/darkorange.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 40px;
+  height: 800px;
+  align-content: center;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+ 
+input {
+  border: 0;
+}
+ 
+.submitButton {
+  border: 0;
+  margin-bottom: 17px;
+}
+
+.Projectname{
+  color: aliceblue;
+  font-weight: 600;
+  margin-top: 5%;
+  font-style: inherit;
+}
+
+.Projectname:hover{
+  color: black;
+}
+
+.lead{
+  font-size: 50px;
+  font-weight: 800;
+  color: white;
+  align-self: center;
+}
+
+.sub{
+  color: white;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.subhead{
+  color: white;
+  font-style: italic;
+  font-size: 36px;
+  font-weight: 800;
+}
+
+.Projectvideo{
+  height: 800px;
+  width: 900px;
+}
+
+.matter{
+  margin: 2% 5% 2% 5%;
+  color: white;
+  padding: 2% 2% 2% 2%;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.matter:hover{
+  background: rgba(0, 0, 0, 0.5);
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.foot{
+  margin: 5% 5% 5% 5%;
+  color: white;
+  padding: 2% 2% 2% 2%;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.foot:hover{
+  color: blueviolet;
+  background: white;
+  border-radius: 20px;
+}
+
+.profile{
+  position: absolute;
+  border: 2px solid transparent;
+  border-radius: 20%;
+  margin-top: 24%;
+  margin-left: -60%;
+
+}
+
+.matter-1{
+  margin: 19.4% 5% 2% 5%;
+  position:absolute;
+  color: white;
+  padding: 2% 2% 2% 14%;
+  font-size: 20px;
+  font-weight: 600;
+}
