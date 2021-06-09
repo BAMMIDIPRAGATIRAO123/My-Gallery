@@ -1,10 +1,10 @@
-#Project-Visual-Gallery
+# Project-Visual-Gallery
 
-##About
+## About
     
 I'm self taught full-stack web developer pursuing B.E. degree from Sri Sairam College of Engineering Bangalore. I'm interested in web development and currently diving deep into it. I'm also interested in learning more and more programming languages as possible. As per now my skills include HTML/CSS,Javascript,REACT-JS,Python3,C & SQL and i would like to learn more of them.
 
-##Contact
+## Contact
    - Name: Bammidi Pragati Rao
    - Location: Bangalore,Karnataka(India)
    - G-Mail: [sce19cs073@sairamtap.edu.in](sce19cs073@sairamtap.edu.in)
@@ -12,7 +12,7 @@ I'm self taught full-stack web developer pursuing B.E. degree from Sri Sairam Co
    - Linkedin: [https://www.linkedin.com/in/sce19cs073](https://www.linkedin.com/in/sce19cs073)
    - Contact-no.: 6261267978/9691593437
 
-##Gallery
+## Gallery
 
 This gallery consists of video demos of all the projects i have been part of. This includes projects developed using flutter, Reactjs, Firebase, Figma, CSS,etc.
 the projects namely are :
@@ -23,4 +23,4 @@ the projects namely are :
 5. G-Quiz Web
 6. K-10 Restaurant
 
-#THANK YOU FOR VISITING !!!
+# THANK YOU FOR VISITING !!!
