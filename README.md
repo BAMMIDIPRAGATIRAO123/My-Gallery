@@ -1,7 +1,7 @@
 #Project-Visual-Gallery
 
 ##About
-I'm self taught full-stack web developer pursuing B.E. degree from Sri Sairam College of Engineering Bangalore. I'm interested in web development and currently diving deep into it. I'm also interested in learning more and more programming languages as possible. As per now my skills include HTML/CSS,Javascript,REACT-JS,Python3,C & SQL and i would like to learn more of them.
+    -I'm self taught full-stack web developer pursuing B.E. degree from Sri Sairam College of Engineering Bangalore. I'm interested in web development and currently diving deep into it. I'm also interested in learning more and more programming languages as possible. As per now my skills include HTML/CSS,Javascript,REACT-JS,Python3,C & SQL and i would like to learn more of them.
 
 ##Contact
    - Name: Bammidi Pragati Rao
